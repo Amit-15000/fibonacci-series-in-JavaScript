@@ -1,4 +1,10 @@
 # fibonacci-series-in-JavaScript
+
+
+
+
+
+
 function fibonacciGenerator(n)
     {
         var output=[];
@@ -20,3 +26,7 @@ function fibonacciGenerator(n)
 
 var amit=fibonacciGenerator(5);
 console.log(amit);
+
+
+
+
